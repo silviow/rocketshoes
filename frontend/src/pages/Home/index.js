@@ -6,7 +6,7 @@ export default function Home() {
     return (
         <ProductList>
             <li>
-                <img src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-feminino/26/HZM-1729-026/HZM-1729-026_zoom2.jpg?ims=326x" alt="Tênis Nike Revolution 5 Feminino" />
+                <img src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-feminino/26/HZM-1729-026/HZM-1729-026_zoom2.jpg?ims=326x" alt="Tênis Nike Revolution 5" />
                 <strong>Tênis Nike Revolution 5</strong>
                 <span>R$189,99</span>
                 <button type="button">
@@ -17,7 +17,7 @@ export default function Home() {
                 </button>
             </li>
             <li>
-                <img src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-feminino/26/HZM-1729-026/HZM-1729-026_zoom2.jpg?ims=326x" alt="Tênis Nike Revolution 5 Feminino" />
+                <img src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-feminino/26/HZM-1729-026/HZM-1729-026_zoom2.jpg?ims=326x" alt="Tênis Nike Revolution 5" />
                 <strong>Tênis Nike Revolution 5</strong>
                 <span>R$189,99</span>
                 <button type="button">
@@ -28,7 +28,7 @@ export default function Home() {
                 </button>
             </li>
             <li>
-                <img src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-feminino/26/HZM-1729-026/HZM-1729-026_zoom2.jpg?ims=326x" alt="Tênis Nike Revolution 5 Feminino" />
+                <img src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-feminino/26/HZM-1729-026/HZM-1729-026_zoom2.jpg?ims=326x" alt="Tênis Nike Revolution 5" />
                 <strong>Tênis Nike Revolution 5</strong>
                 <span>R$189,99</span>
                 <button type="button">
@@ -39,7 +39,7 @@ export default function Home() {
                 </button>
             </li>
             <li>
-                <img src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-feminino/26/HZM-1729-026/HZM-1729-026_zoom2.jpg?ims=326x" alt="Tênis Nike Revolution 5 Feminino" />
+                <img src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-feminino/26/HZM-1729-026/HZM-1729-026_zoom2.jpg?ims=326x" alt="Tênis Nike Revolution 5" />
                 <strong>Tênis Nike Revolution 5</strong>
                 <span>R$189,99</span>
                 <button type="button">
@@ -50,7 +50,7 @@ export default function Home() {
                 </button>
             </li>
             <li>
-                <img src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-feminino/26/HZM-1729-026/HZM-1729-026_zoom2.jpg?ims=326x" alt="Tênis Nike Revolution 5 Feminino" />
+                <img src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-feminino/26/HZM-1729-026/HZM-1729-026_zoom2.jpg?ims=326x" alt="Tênis Nike Revolution 5" />
                 <strong>Tênis Nike Revolution 5</strong>
                 <span>R$189,99</span>
                 <button type="button">
@@ -61,7 +61,7 @@ export default function Home() {
                 </button>
             </li>
             <li>
-                <img src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-feminino/26/HZM-1729-026/HZM-1729-026_zoom2.jpg?ims=326x" alt="Tênis Nike Revolution 5 Feminino" />
+                <img src="https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-feminino/26/HZM-1729-026/HZM-1729-026_zoom2.jpg?ims=326x" alt="Tênis Nike Revolution 5" />
                 <strong>Tênis Nike Revolution 5</strong>
                 <span>R$189,99</span>
                 <button type="button">

@@ -6,6 +6,18 @@ export const Container = styled.div`
     margin: 50px 0;
     align-items: center;
     justify-content: space-between;
+
+    @media (max-width: 420px) {
+        .logo {
+            width: 220px;
+        }
+    }
+
+    @media (max-width: 360px) {
+        .logo {
+            width: 180px;
+        }
+    }
 `;
 
 export const Cart = styled(Link)`

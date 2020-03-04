@@ -9,7 +9,7 @@ export default function Header() {
     return (
         <Container>
             <Link to="/">
-                <img src={logo} alt="Rocketshoes" />
+                <img className="logo" src={logo} alt="Rocketshoes" />
             </Link>
             <Cart to="/cart">
                 <div>
